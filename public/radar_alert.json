@@ -1,0 +1,928 @@
+{
+    "schema_version": "2.0",
+    "generated_at": "2026-09-15T19:35:02.022128Z",
+    "radar_risk_score": 100,
+    "impact_time_mins": 0,
+    "danger_pixels": 1,
+    "message": "SÉT THỰC ĐO: Phát hiện 37 tia sét trong bán kính 30km! | DÔNG ĐANG QUÉT QUA ĐÀI!",
+    "lightning_detected": true,
+    "cells": [
+        {
+            "source": "RainViewer",
+            "id": 4,
+            "lat": 23.3602,
+            "lon": 106.5295,
+            "cx": 480.55263157894734,
+            "cy": 116.22368421052632,
+            "area_px": 76,
+            "radius_km": 6.17,
+            "dist_km": 274.75,
+            "max_dbz": 45.0,
+            "vx": 0.25,
+            "vy": 13.29,
+            "track_age": 3,
+            "quality": "MODERATE",
+            "track_id": 4,
+            "speed_kmh": 13.3,
+            "growth_rate": 0.97,
+            "eta": null
+        },
+        {
+            "source": "RainViewer",
+            "id": 8,
+            "lat": 22.8204,
+            "lon": 105.9683,
+            "cx": 429.4704641350211,
+            "cy": 169.63080168776372,
+            "area_px": 474,
+            "radius_km": 15.22,
+            "dist_km": 204.13,
+            "max_dbz": 45.0,
+            "vx": -5.73,
+            "vy": 16.36,
+            "track_age": 3,
+            "quality": "MODERATE",
+            "track_id": 17,
+            "speed_kmh": 17.3,
+            "growth_rate": 1.1,
+            "eta": null
+        },
+        {
+            "source": "RainViewer",
+            "id": 11,
+            "lat": 22.7316,
+            "lon": 104.0289,
+            "cx": 252.94285714285715,
+            "cy": 178.4,
+            "area_px": 35,
+            "radius_km": 3.94,
+            "dist_km": 262.81,
+            "max_dbz": 23.0,
+            "vx": -6.35,
+            "vy": 0.4,
+            "track_age": 3,
+            "quality": "MODERATE",
+            "track_id": 20,
+            "speed_kmh": 6.4,
+            "growth_rate": 1.46,
+            "eta": null
+        },
+        {
+            "source": "RainViewer",
+            "id": 17,
+            "lat": 21.9968,
+            "lon": 105.2698,
+            "cx": 365.8870813397129,
+            "cy": 250.72822966507178,
+            "area_px": 1045,
+            "radius_km": 29.45,
+            "dist_km": 122.23,
+            "max_dbz": 39.0,
+            "vx": 48.49,
+            "vy": -27.59,
+            "track_age": 3,
+            "quality": "MODERATE",
+            "track_id": 26,
+            "speed_kmh": 55.8,
+            "growth_rate": 2.97,
+            "eta": 94
+        },
+        {
+            "source": "RainViewer",
+            "id": 21,
+            "lat": 21.9676,
+            "lon": 104.2576,
+            "cx": 273.7551020408163,
+            "cy": 253.59183673469389,
+            "area_px": 49,
+            "radius_km": 9.63,
+            "dist_km": 189.08,
+            "max_dbz": 23.0,
+            "vx": 82.63,
+            "vy": 36.54,
+            "track_age": 3,
+            "quality": "MODERATE",
+            "track_id": 28,
+            "speed_kmh": 90.3,
+            "growth_rate": 1.11,
+            "eta": 115
+        },
+        {
+            "source": "RainViewer",
+            "id": 25,
+            "lat": 21.7515,
+            "lon": 104.4632,
+            "cx": 292.47169811320754,
+            "cy": 274.7830188679245,
+            "area_px": 106,
+            "radius_km": 9.08,
+            "dist_km": 158.15,
+            "max_dbz": 27.0,
+            "vx": 0.0,
+            "vy": 0.0,
+            "track_age": 1,
+            "quality": "LOW",
+            "eta": null
+        },
+        {
+            "source": "RainViewer",
+            "id": 28,
+            "lat": 21.6073,
+            "lon": 104.2563,
+            "cx": 273.6363636363636,
+            "cy": 288.90909090909093,
+            "area_px": 11,
+            "radius_km": 2.27,
+            "dist_km": 169.69,
+            "max_dbz": 22.0,
+            "vx": 0.0,
+            "vy": 0.0,
+            "track_age": 1,
+            "quality": "LOW",
+            "eta": null
+        },
+        {
+            "source": "RainViewer",
+            "id": 33,
+            "lat": 21.25,
+            "lon": 105.0189,
+            "cx": 343.0533656761674,
+            "cy": 323.85021224984837,
+            "area_px": 1649,
+            "radius_km": 42.13,
+            "dist_km": 81.6,
+            "max_dbz": 34.0,
+            "vx": 0.0,
+            "vy": 0.0,
+            "track_age": 1,
+            "quality": "LOW",
+            "eta": null
+        },
+        {
+            "source": "RainViewer",
+            "id": 38,
+            "lat": 21.3669,
+            "lon": 105.6331,
+            "cx": 398.9612403100775,
+            "cy": 312.4263565891473,
+            "area_px": 129,
+            "radius_km": 7.97,
+            "dist_km": 43.27,
+            "max_dbz": 38.0,
+            "vx": 0.0,
+            "vy": 0.0,
+            "track_age": 1,
+            "quality": "LOW",
+            "eta": null
+        },
+        {
+            "source": "RainViewer",
+            "id": 40,
+            "lat": 21.3457,
+            "lon": 108.4256,
+            "cx": 653.1388888888889,
+            "cy": 314.5,
+            "area_px": 36,
+            "radius_km": 4.55,
+            "dist_km": 279.47,
+            "max_dbz": 30.0,
+            "vx": -2.24,
+            "vy": 6.61,
+            "track_age": 3,
+            "quality": "MODERATE",
+            "track_id": 37,
+            "speed_kmh": 7.0,
+            "growth_rate": 1.29,
+            "eta": 2313
+        },
+        {
+            "source": "RainViewer",
+            "id": 43,
+            "lat": 21.1763,
+            "lon": 107.5886,
+            "cx": 576.9545454545455,
+            "cy": 331.04545454545456,
+            "area_px": 66,
+            "radius_km": 7.98,
+            "dist_km": 191.12,
+            "max_dbz": 46.0,
+            "vx": -13.39,
+            "vy": 1.0,
+            "track_age": 2,
+            "quality": "LOW",
+            "track_id": 33,
+            "speed_kmh": 13.4,
+            "growth_rate": 1.53,
+            "eta": 797
+        },
+        {
+            "source": "RainViewer",
+            "id": 45,
+            "lat": 20.3234,
+            "lon": 105.9199,
+            "cx": 425.06295935535286,
+            "cy": 414.06074559461615,
+            "area_px": 11293,
+            "radius_km": 104.28,
+            "dist_km": 76.61,
+            "max_dbz": 45.0,
+            "vx": 0.0,
+            "vy": 0.0,
+            "track_age": 1,
+            "quality": "LOW",
+            "eta": null
+        },
+        {
+            "source": "RainViewer",
+            "id": 48,
+            "lat": 20.8707,
+            "lon": 104.7048,
+            "cx": 314.46153846153845,
+            "cy": 360.84615384615387,
+            "area_px": 13,
+            "radius_km": 2.28,
+            "dist_km": 110.12,
+            "max_dbz": 22.0,
+            "vx": 0.0,
+            "vy": 0.0,
+            "track_age": 1,
+            "quality": "LOW",
+            "eta": null
+        },
+        {
+            "source": "RainViewer",
+            "id": 51,
+            "lat": 20.8453,
+            "lon": 104.4649,
+            "cx": 292.625,
+            "cy": 363.3125,
+            "area_px": 16,
+            "radius_km": 3.42,
+            "dist_km": 135.2,
+            "max_dbz": 21.0,
+            "vx": 34.27,
+            "vy": -41.14,
+            "track_age": 3,
+            "quality": "MODERATE",
+            "track_id": 45,
+            "speed_kmh": 53.5,
+            "growth_rate": 0.84,
+            "eta": 142
+        },
+        {
+            "source": "RainViewer",
+            "id": 52,
+            "lat": 20.7222,
+            "lon": 106.6288,
+            "cx": 489.5925925925926,
+            "cy": 375.2962962962963,
+            "area_px": 27,
+            "radius_km": 4.0,
+            "dist_km": 95.57,
+            "max_dbz": 26.0,
+            "vx": -16.68,
+            "vy": 55.97,
+            "track_age": 2,
+            "quality": "LOW",
+            "track_id": 50,
+            "speed_kmh": 58.4,
+            "growth_rate": 0.59,
+            "eta": 88
+        },
+        {
+            "source": "RainViewer",
+            "id": 53,
+            "lat": 20.5359,
+            "lon": 104.5594,
+            "cx": 301.2260273972603,
+            "cy": 393.4246575342466,
+            "area_px": 146,
+            "radius_km": 11.45,
+            "dist_km": 134.56,
+            "max_dbz": 27.0,
+            "vx": 0.0,
+            "vy": 0.0,
+            "track_age": 1,
+            "quality": "LOW",
+            "eta": null
+        },
+        {
+            "source": "RainViewer",
+            "id": 56,
+            "lat": 20.4016,
+            "lon": 107.3159,
+            "cx": 552.1333333333333,
+            "cy": 406.46666666666664,
+            "area_px": 15,
+            "radius_km": 3.44,
+            "dist_km": 175.1,
+            "max_dbz": 27.0,
+            "vx": 0.0,
+            "vy": 0.0,
+            "track_age": 1,
+            "quality": "LOW",
+            "eta": null
+        },
+        {
+            "source": "RainViewer",
+            "id": 58,
+            "lat": 20.3037,
+            "lon": 107.0317,
+            "cx": 526.2634730538922,
+            "cy": 415.97005988023955,
+            "area_px": 167,
+            "radius_km": 10.31,
+            "dist_km": 153.34,
+            "max_dbz": 37.0,
+            "vx": -21.05,
+            "vy": 9.62,
+            "track_age": 2,
+            "quality": "LOW",
+            "track_id": 55,
+            "speed_kmh": 23.1,
+            "growth_rate": 1.04,
+            "eta": 358
+        },
+        {
+            "source": "RainViewer",
+            "id": 59,
+            "lat": 20.2366,
+            "lon": 106.7752,
+            "cx": 502.9148936170213,
+            "cy": 422.47872340425533,
+            "area_px": 94,
+            "radius_km": 8.03,
+            "dist_km": 135.46,
+            "max_dbz": 23.0,
+            "vx": 0.0,
+            "vy": 0.0,
+            "track_age": 1,
+            "quality": "LOW",
+            "eta": null
+        },
+        {
+            "source": "RainViewer",
+            "id": 61,
+            "lat": 19.9362,
+            "lon": 105.2569,
+            "cx": 364.7207872078721,
+            "cy": 451.6014760147601,
+            "area_px": 1626,
+            "radius_km": 42.59,
+            "dist_km": 128.75,
+            "max_dbz": 34.0,
+            "vx": 77.04,
+            "vy": -48.96,
+            "track_age": 2,
+            "quality": "LOW",
+            "track_id": 57,
+            "speed_kmh": 91.3,
+            "growth_rate": 1.83,
+            "eta": null
+        },
+        {
+            "source": "RainViewer",
+            "id": 63,
+            "lat": 20.1311,
+            "lon": 107.1099,
+            "cx": 533.3766233766233,
+            "cy": 432.7142857142857,
+            "area_px": 77,
+            "radius_km": 6.88,
+            "dist_km": 170.52,
+            "max_dbz": 31.0,
+            "vx": 0.0,
+            "vy": 0.0,
+            "track_age": 1,
+            "quality": "LOW",
+            "eta": null
+        },
+        {
+            "source": "RainViewer",
+            "id": 67,
+            "lat": 19.9126,
+            "lon": 107.8418,
+            "cx": 600.0,
+            "cy": 453.88461538461536,
+            "area_px": 26,
+            "radius_km": 3.45,
+            "dist_km": 248.36,
+            "max_dbz": 24.0,
+            "vx": 2.07,
+            "vy": -4.21,
+            "track_age": 2,
+            "quality": "LOW",
+            "track_id": 70,
+            "speed_kmh": 4.7,
+            "growth_rate": 0.7,
+            "eta": null
+        },
+        {
+            "source": "RainViewer",
+            "id": 70,
+            "lat": 19.8518,
+            "lon": 106.0003,
+            "cx": 432.38461538461536,
+            "cy": 459.7692307692308,
+            "area_px": 13,
+            "radius_km": 2.87,
+            "dist_km": 129.65,
+            "max_dbz": 22.0,
+            "vx": 0.0,
+            "vy": 0.0,
+            "track_age": 1,
+            "quality": "LOW",
+            "eta": null
+        },
+        {
+            "source": "RainViewer",
+            "id": 71,
+            "lat": 19.7529,
+            "lon": 107.8565,
+            "cx": 601.3385826771654,
+            "cy": 469.3307086614173,
+            "area_px": 127,
+            "radius_km": 9.78,
+            "dist_km": 258.82,
+            "max_dbz": 24.0,
+            "vx": 1.57,
+            "vy": 12.42,
+            "track_age": 3,
+            "quality": "MODERATE",
+            "track_id": 68,
+            "speed_kmh": 12.5,
+            "growth_rate": 1.35,
+            "eta": 1171
+        },
+        {
+            "source": "RainViewer",
+            "id": 73,
+            "lat": 19.1101,
+            "lon": 107.6778,
+            "cx": 585.0681271064035,
+            "cy": 531.3813192103996,
+            "area_px": 4154,
+            "radius_km": 52.52,
+            "dist_km": 290.17,
+            "max_dbz": 45.0,
+            "vx": 0.0,
+            "vy": 0.0,
+            "track_age": 1,
+            "quality": "LOW",
+            "eta": null
+        },
+        {
+            "source": "RainViewer",
+            "id": 78,
+            "lat": 19.2749,
+            "lon": 105.3179,
+            "cx": 370.27006507592193,
+            "cy": 515.4913232104121,
+            "area_px": 922,
+            "radius_km": 25.95,
+            "dist_km": 196.69,
+            "max_dbz": 29.0,
+            "vx": 0.0,
+            "vy": 0.0,
+            "track_age": 1,
+            "quality": "LOW",
+            "eta": null
+        },
+        {
+            "source": "RainViewer",
+            "id": 82,
+            "lat": 19.1761,
+            "lon": 106.5935,
+            "cx": 486.3784946236559,
+            "cy": 525.0193548387097,
+            "area_px": 465,
+            "radius_km": 17.9,
+            "dist_km": 220.34,
+            "max_dbz": 24.0,
+            "vx": 0.0,
+            "vy": 0.0,
+            "track_age": 1,
+            "quality": "LOW",
+            "eta": null
+        },
+        {
+            "source": "RainViewer",
+            "id": 83,
+            "lat": 18.9915,
+            "lon": 106.31,
+            "cx": 460.575,
+            "cy": 542.8,
+            "area_px": 40,
+            "radius_km": 6.93,
+            "dist_km": 230.18,
+            "max_dbz": 22.0,
+            "vx": 0.0,
+            "vy": 0.0,
+            "track_age": 1,
+            "quality": "LOW",
+            "eta": null
+        }
+    ],
+    "rainviewer_path": "/v2/radar/f27688a5d023",
+    "system": {
+        "timestamp": "2026-09-15T19:35:02.022128Z",
+        "status": "ok"
+    },
+    "source_timings": {
+        "RainViewer": {
+            "product_time": "2026-09-15T19:25:02.022128Z",
+            "downloaded_at": "2026-09-15T19:35:02.022128Z",
+            "available": true,
+            "latency_status": "MEASURABLE"
+        },
+        "LIGHTNING_OBSERVED": {
+            "product_time": "2026-09-15T19:35:02.022128Z",
+            "downloaded_at": "2026-09-15T19:35:02.022128Z",
+            "available": true,
+            "latency_status": "MEASURABLE"
+        }
+    },
+    "observed_lightning": {
+        "status": "ok",
+        "provider": "HYMETNET_BLITZORTUNG",
+        "nearby_count": 37,
+        "nearest_km": 31.52,
+        "strikes": [
+            {
+                "dist": 34.78285692634061,
+                "age": 3646.5798666477203,
+                "lat": 20.8287,
+                "lng": 105.4732
+            },
+            {
+                "dist": 31.51704672465188,
+                "age": 3646.5798666477203,
+                "lat": 20.8417,
+                "lng": 105.5016
+            },
+            {
+                "dist": 31.51704672465188,
+                "age": 3646.5798666477203,
+                "lat": 20.8417,
+                "lng": 105.5016
+            },
+            {
+                "dist": 47.79599746121554,
+                "age": 4125.57986664772,
+                "lat": 20.6061,
+                "lng": 105.9521
+            },
+            {
+                "dist": 49.629531647948006,
+                "age": 4423.57986664772,
+                "lat": 20.5973,
+                "lng": 105.973
+            },
+            {
+                "dist": 37.19273304601039,
+                "age": 4803.57986664772,
+                "lat": 20.6609,
+                "lng": 105.7687
+            },
+            {
+                "dist": 35.09243577882695,
+                "age": 4566.57986664772,
+                "lat": 20.6797,
+                "lng": 105.7482
+            },
+            {
+                "dist": 39.87141354649984,
+                "age": 5140.57986664772,
+                "lat": 20.6371,
+                "lng": 105.7765
+            },
+            {
+                "dist": 45.93595883090182,
+                "age": 5448.57986664772,
+                "lat": 20.5894,
+                "lng": 105.8395
+            },
+            {
+                "dist": 42.06534436411151,
+                "age": 5929.57986664772,
+                "lat": 20.6871,
+                "lng": 105.5218
+            },
+            {
+                "dist": 52.03643183329562,
+                "age": 6198.57986664772,
+                "lat": 20.5467,
+                "lng": 105.8996
+            },
+            {
+                "dist": 43.729607764334936,
+                "age": 6401.57986664772,
+                "lat": 20.6454,
+                "lng": 105.5644
+            },
+            {
+                "dist": 47.79599746121554,
+                "age": 4125.57986664772,
+                "lat": 20.6061,
+                "lng": 105.9521
+            },
+            {
+                "dist": 49.629531647948006,
+                "age": 4423.57986664772,
+                "lat": 20.5973,
+                "lng": 105.973
+            },
+            {
+                "dist": 37.19273304601039,
+                "age": 4803.57986664772,
+                "lat": 20.6609,
+                "lng": 105.7687
+            },
+            {
+                "dist": 35.09243577882695,
+                "age": 4566.57986664772,
+                "lat": 20.6797,
+                "lng": 105.7482
+            },
+            {
+                "dist": 39.87141354649984,
+                "age": 5140.57986664772,
+                "lat": 20.6371,
+                "lng": 105.7765
+            },
+            {
+                "dist": 45.93595883090182,
+                "age": 5448.57986664772,
+                "lat": 20.5894,
+                "lng": 105.8395
+            },
+            {
+                "dist": 42.06534436411151,
+                "age": 5929.57986664772,
+                "lat": 20.6871,
+                "lng": 105.5218
+            },
+            {
+                "dist": 52.03643183329562,
+                "age": 6198.57986664772,
+                "lat": 20.5467,
+                "lng": 105.8996
+            },
+            {
+                "dist": 43.729607764334936,
+                "age": 6401.57986664772,
+                "lat": 20.6454,
+                "lng": 105.5644
+            },
+            {
+                "dist": 37.19273304601039,
+                "age": 4803.57986664772,
+                "lat": 20.6609,
+                "lng": 105.7687
+            },
+            {
+                "dist": 35.09243577882695,
+                "age": 4566.57986664772,
+                "lat": 20.6797,
+                "lng": 105.7482
+            },
+            {
+                "dist": 39.87141354649984,
+                "age": 5140.57986664772,
+                "lat": 20.6371,
+                "lng": 105.7765
+            },
+            {
+                "dist": 45.93595883090182,
+                "age": 5448.57986664772,
+                "lat": 20.5894,
+                "lng": 105.8395
+            },
+            {
+                "dist": 42.06534436411151,
+                "age": 5929.57986664772,
+                "lat": 20.6871,
+                "lng": 105.5218
+            },
+            {
+                "dist": 52.03643183329562,
+                "age": 6198.57986664772,
+                "lat": 20.5467,
+                "lng": 105.8996
+            },
+            {
+                "dist": 43.729607764334936,
+                "age": 6401.57986664772,
+                "lat": 20.6454,
+                "lng": 105.5644
+            },
+            {
+                "dist": 39.87141354649984,
+                "age": 5140.57986664772,
+                "lat": 20.6371,
+                "lng": 105.7765
+            },
+            {
+                "dist": 45.93595883090182,
+                "age": 5448.57986664772,
+                "lat": 20.5894,
+                "lng": 105.8395
+            },
+            {
+                "dist": 42.06534436411151,
+                "age": 5929.57986664772,
+                "lat": 20.6871,
+                "lng": 105.5218
+            },
+            {
+                "dist": 52.03643183329562,
+                "age": 6198.57986664772,
+                "lat": 20.5467,
+                "lng": 105.8996
+            },
+            {
+                "dist": 43.729607764334936,
+                "age": 6401.57986664772,
+                "lat": 20.6454,
+                "lng": 105.5644
+            },
+            {
+                "dist": 42.06534436411151,
+                "age": 5929.57986664772,
+                "lat": 20.6871,
+                "lng": 105.5218
+            },
+            {
+                "dist": 52.03643183329562,
+                "age": 6198.57986664772,
+                "lat": 20.5467,
+                "lng": 105.8996
+            },
+            {
+                "dist": 43.729607764334936,
+                "age": 6401.57986664772,
+                "lat": 20.6454,
+                "lng": 105.5644
+            },
+            {
+                "dist": 43.729607764334936,
+                "age": 6401.57986664772,
+                "lat": 20.6454,
+                "lng": 105.5644
+            }
+        ]
+    },
+    "models": {
+        "A": [
+            {
+                "horizon_minutes": 15,
+                "predicted_rain": true,
+                "risk_index": 85,
+                "eta_minutes": 0,
+                "confidence": "MODERATE",
+                "forecast_status": "SUPPORTED",
+                "supporting_sources": [
+                    "RainViewer"
+                ]
+            },
+            {
+                "horizon_minutes": 30,
+                "predicted_rain": true,
+                "risk_index": 85,
+                "eta_minutes": 0,
+                "confidence": "MODERATE",
+                "forecast_status": "SUPPORTED",
+                "supporting_sources": [
+                    "RainViewer"
+                ]
+            },
+            {
+                "horizon_minutes": 60,
+                "predicted_rain": true,
+                "risk_index": 85,
+                "eta_minutes": 0,
+                "confidence": "MODERATE",
+                "forecast_status": "SUPPORTED",
+                "supporting_sources": [
+                    "RainViewer"
+                ]
+            },
+            {
+                "horizon_minutes": 90,
+                "predicted_rain": true,
+                "risk_index": 85,
+                "eta_minutes": 0,
+                "confidence": "LOW",
+                "forecast_status": "SUPPORTED",
+                "supporting_sources": [
+                    "RainViewer"
+                ]
+            },
+            {
+                "horizon_minutes": 120,
+                "predicted_rain": true,
+                "risk_index": 85,
+                "eta_minutes": 0,
+                "confidence": "LOW",
+                "forecast_status": "SUPPORTED",
+                "supporting_sources": [
+                    "RainViewer"
+                ]
+            }
+        ],
+        "B": [
+            {
+                "available": true,
+                "station": "PLI",
+                "image_url": "/radar_pli.png?v=1789500935",
+                "bounds": [
+                    [
+                        18.25,
+                        103.95
+                    ],
+                    [
+                        23.55,
+                        109.35
+                    ]
+                ]
+            },
+            {
+                "available": true,
+                "station": "VTR",
+                "image_url": "/radar_vtr.png?v=1789500935",
+                "bounds": [
+                    [
+                        18.55,
+                        102.5
+                    ],
+                    [
+                        23.95,
+                        108.0
+                    ]
+                ]
+            }
+        ],
+        "C": [
+            {
+                "horizon_minutes": 15,
+                "predicted_rain": true,
+                "risk_index": 100,
+                "eta_minutes": 0,
+                "confidence": "HIGH",
+                "forecast_status": "RAIN_CONFIRMED",
+                "supporting_sources": [
+                    "RainViewer",
+                    "LIGHTNING_OBSERVED"
+                ]
+            },
+            {
+                "horizon_minutes": 30,
+                "predicted_rain": true,
+                "risk_index": 100,
+                "eta_minutes": 0,
+                "confidence": "HIGH",
+                "forecast_status": "RAIN_CONFIRMED",
+                "supporting_sources": [
+                    "RainViewer",
+                    "LIGHTNING_OBSERVED"
+                ]
+            },
+            {
+                "horizon_minutes": 60,
+                "predicted_rain": true,
+                "risk_index": 100,
+                "eta_minutes": 0,
+                "confidence": "HIGH",
+                "forecast_status": "RAIN_CONFIRMED",
+                "supporting_sources": [
+                    "RainViewer",
+                    "LIGHTNING_OBSERVED"
+                ]
+            },
+            {
+                "horizon_minutes": 90,
+                "predicted_rain": true,
+                "risk_index": 100,
+                "eta_minutes": 0,
+                "confidence": "HIGH",
+                "forecast_status": "RAIN_CONFIRMED",
+                "supporting_sources": [
+                    "RainViewer",
+                    "LIGHTNING_OBSERVED"
+                ]
+            },
+            {
+                "horizon_minutes": 120,
+                "predicted_rain": true,
+                "risk_index": 100,
+                "eta_minutes": 0,
+                "confidence": "HIGH",
+                "forecast_status": "RAIN_CONFIRMED",
+                "supporting_sources": [
+                    "RainViewer",
+                    "LIGHTNING_OBSERVED"
+                ]
+            }
+        ]
+    }
+}
