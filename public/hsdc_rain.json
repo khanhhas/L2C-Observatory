@@ -1,0 +1,328 @@
+{
+    "code": 1,
+    "timestamp": 1789579801,
+    "data": [
+        {
+            "TramId": "1",
+            "TenTram": "Hai Bà Trưng",
+            "Lat": "21.0090453",
+            "Lng": "105.8470075",
+            "level": 6
+        },
+        {
+            "TramId": "2",
+            "TenTram": "Xuân Đỉnh",
+            "Lat": "21.065672",
+            "Lng": "105.783581",
+            "level": 1
+        },
+        {
+            "TramId": "3",
+            "TenTram": "P.Hoàn Kiếm",
+            "Lat": "21.031547484992",
+            "Lng": "105.85434892964",
+            "level": 3
+        },
+        {
+            "TramId": "4",
+            "TenTram": "Cầu giấy",
+            "Lat": "21.0355714",
+            "Lng": "105.7765672",
+            "level": 1
+        },
+        {
+            "TramId": "5",
+            "TenTram": "Long Biên",
+            "Lat": "21.034243",
+            "Lng": "105.905554",
+            "level": 2
+        },
+        {
+            "TramId": "6",
+            "TenTram": "Hoàng Mai",
+            "Lat": "20.957009",
+            "Lng": "105.869172",
+            "level": 5
+        },
+        {
+            "TramId": "7",
+            "TenTram": "Thanh Trì",
+            "Lat": "20.957237",
+            "Lng": "105.810462",
+            "level": 3
+        },
+        {
+            "TramId": "8",
+            "TenTram": "Tây Hồ ",
+            "Lat": "21.045777",
+            "Lng": "105.815407",
+            "level": 3
+        },
+        {
+            "TramId": "9",
+            "TenTram": "Ba Đình",
+            "Lat": "21.043745",
+            "Lng": "105.841297",
+            "level": 3
+        },
+        {
+            "TramId": "10",
+            "TenTram": "Đông Anh",
+            "Lat": "21.110308619042",
+            "Lng": "105.79423273381",
+            "level": 4
+        },
+        {
+            "TramId": "13",
+            "TenTram": "Cầu Giấy",
+            "Lat": "21.046489",
+            "Lng": "105.797271",
+            "level": 4
+        },
+        {
+            "TramId": "14",
+            "TenTram": "Đống Đa ",
+            "Lat": "21.017696",
+            "Lng": "105.823791",
+            "level": 4
+        },
+        {
+            "TramId": "15",
+            "TenTram": "Hoàng Mai",
+            "Lat": "20.960733",
+            "Lng": "105.829409",
+            "level": 4
+        },
+        {
+            "TramId": "16",
+            "TenTram": "Thanh Xuân",
+            "Lat": "20.986765",
+            "Lng": "105.817254",
+            "level": 3
+        },
+        {
+            "TramId": "17",
+            "TenTram": "Đống Đa ",
+            "Lat": "21.028762",
+            "Lng": "105.837328",
+            "level": 4
+        },
+        {
+            "TramId": "18",
+            "TenTram": "Hoàng Mai",
+            "Lat": "20.97391667",
+            "Lng": "105.8875278",
+            "level": 3
+        },
+        {
+            "TramId": "19",
+            "TenTram": "Bồ Đề",
+            "Lat": "21.05286111",
+            "Lng": "105.8869444",
+            "level": 2
+        },
+        {
+            "TramId": "20",
+            "TenTram": "Thanh Xuân",
+            "Lat": "21.001987",
+            "Lng": "105.809672",
+            "level": 3
+        },
+        {
+            "TramId": "21",
+            "TenTram": "Hà Đông",
+            "Lat": "20.956204",
+            "Lng": "105.767741",
+            "level": 3
+        },
+        {
+            "TramId": "23",
+            "TenTram": "Hà Đông",
+            "Lat": "20.953351",
+            "Lng": "105.749126",
+            "level": 4
+        },
+        {
+            "TramId": "24",
+            "TenTram": "Hoàng Mai",
+            "Lat": "20.98091",
+            "Lng": "105.84778",
+            "level": 5
+        },
+        {
+            "TramId": "25",
+            "TenTram": "Nam Từ Liêm",
+            "Lat": "21.011709",
+            "Lng": "105.761472",
+            "level": 1
+        },
+        {
+            "TramId": "26",
+            "TenTram": "Nam Từ Liêm",
+            "Lat": "21.009996",
+            "Lng": "105.739737",
+            "level": 1
+        },
+        {
+            "TramId": "32",
+            "TenTram": "Phú Xuyên",
+            "Lat": "20.742329",
+            "Lng": "105.914056",
+            "level": 2
+        },
+        {
+            "TramId": "33",
+            "TenTram": "Mỹ Đức",
+            "Lat": "20.686403",
+            "Lng": "105.742165",
+            "level": 1
+        },
+        {
+            "TramId": "36",
+            "TenTram": "Chương Mỹ",
+            "Lat": "20.899451",
+            "Lng": "105.577146",
+            "level": 2
+        },
+        {
+            "TramId": "41",
+            "TenTram": "Đông Anh",
+            "Lat": "21.0892",
+            "Lng": "105.891329",
+            "level": 2
+        },
+        {
+            "TramId": "42",
+            "TenTram": "Thanh Trì\t",
+            "Lat": "20.946133",
+            "Lng": "105.845349",
+            "level": 4
+        },
+        {
+            "TramId": "43",
+            "TenTram": "Gia Lâm",
+            "Lat": "21.014643",
+            "Lng": "105.946009",
+            "level": 1
+        },
+        {
+            "TramId": "44",
+            "TenTram": "Gia Lâm",
+            "Lat": "21.090067",
+            "Lng": "105.923107",
+            "level": 1
+        },
+        {
+            "TramId": "45",
+            "TenTram": "Thanh Trì",
+            "Lat": "20.9804879",
+            "Lng": "105.8060257",
+            "level": 4
+        },
+        {
+            "TramId": "46",
+            "TenTram": "Long Biên",
+            "Lat": "21.022983036576",
+            "Lng": "105.90601799016",
+            "level": 2
+        },
+        {
+            "TramId": "47",
+            "TenTram": "Long Biên",
+            "Lat": "21.029645750127",
+            "Lng": "105.88316181121",
+            "level": 3
+        },
+        {
+            "TramId": "48",
+            "TenTram": "Long Biên\t",
+            "Lat": "21.063956419317",
+            "Lng": "105.90261742501",
+            "level": 2
+        },
+        {
+            "TramId": "49",
+            "TenTram": "Long Biên\t",
+            "Lat": "21.041730549421",
+            "Lng": "105.92662474861",
+            "level": 1
+        },
+        {
+            "TramId": "50",
+            "TenTram": "Bồ Đề",
+            "Lat": "21.057504916604",
+            "Lng": "105.86620793931",
+            "level": 2
+        },
+        {
+            "TramId": "51",
+            "TenTram": "CỬA NAM",
+            "Lat": "21.021685861401",
+            "Lng": "105.84863752582",
+            "level": 3
+        },
+        {
+            "TramId": "52",
+            "TenTram": "HOÀN KIẾM",
+            "Lat": "21.029285323143",
+            "Lng": "105.84440976714",
+            "level": 4
+        },
+        {
+            "TramId": "54",
+            "TenTram": "MINH KHAI",
+            "Lat": "20.99566892239",
+            "Lng": "105.85101195896",
+            "level": 4
+        },
+        {
+            "TramId": "55",
+            "TenTram": "Thái Hà",
+            "Lat": "21.016078613162",
+            "Lng": "105.81578765963",
+            "level": 3
+        },
+        {
+            "TramId": "56",
+            "TenTram": "Phạm Ngọc Thach",
+            "Lat": "21.006322920987",
+            "Lng": "105.83586682145",
+            "level": 3
+        },
+        {
+            "TramId": "57",
+            "TenTram": "Nguyễn Trãi",
+            "Lat": "21.002521763939",
+            "Lng": "105.81910428547",
+            "level": 1
+        },
+        {
+            "TramId": "59",
+            "TenTram": "Nghĩa Đô",
+            "Lat": "21.032374401801",
+            "Lng": "105.79944145922",
+            "level": 3
+        },
+        {
+            "TramId": "60",
+            "TenTram": "Phan Văn Trường",
+            "Lat": "21.041664550187",
+            "Lng": "105.78761028838",
+            "level": 5
+        },
+        {
+            "TramId": "61",
+            "TenTram": "Keangnam",
+            "Lat": "21.022736637414",
+            "Lng": "105.78310398862",
+            "level": 1
+        },
+        {
+            "TramId": "63",
+            "TenTram": "VÕ CHÍ CÔNG",
+            "Lat": "21.078732544001",
+            "Lng": "105.81211759343",
+            "level": 3
+        }
+    ]
+}
